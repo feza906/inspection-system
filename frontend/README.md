@@ -15,3 +15,5 @@ npm run dev
 The app will be available at http://localhost:5173
 
 > **Note:** Make sure the backend is running on port 3000 before using the app.
+
+Same here, I made all the changes while pushing into main branch, (I enjoyed backend more than frontend)
