@@ -202,3 +202,5 @@ All errors return consistent format:
 - `201 Created` - Successful POST request
 - `400 Bad Request` - Validation error
 - `500 Internal Server Error` - Server error
+
+- while pushing to main branch I had made all the changes Frontend + backend
